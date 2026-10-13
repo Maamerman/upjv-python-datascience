@@ -1,4 +1,4 @@
-README = # Python & Data Science — UPJV Amiens
+# Python & Data Science — UPJV Amiens
 
 **Étudiant·e :** Manel Meriem MAACHOU
 **Formation :** M1 Économie
