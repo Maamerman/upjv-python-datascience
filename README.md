@@ -1,4 +1,4 @@
-README = """# Python & Data Science — UPJV Amiens
+README = # Python & Data Science — UPJV Amiens
 
 **Étudiant·e :** Manel Meriem MAACHOU
 **Formation :** M1 Économie
@@ -20,6 +20,4 @@ Python & Data Science réalisés sur Google Colab.
 ## Crédits
 
 Cours de M. Guéry — Faculté d'Économie, UPJV
-"""
 
-print(README)
